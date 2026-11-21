@@ -1,0 +1,18 @@
+# Variables d'environnement (conserver les fichiers *.example)
+.env
+.env.*
+!*.example
+
+# Métadonnées système
+.DS_Store
+Thumbs.db
+
+# Fichiers temporaires d'éditeurs
+*~
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp
+*#
+.#*
